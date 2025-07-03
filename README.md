@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Vinayak</h1>
-<h3 align="center">I am a Coder and passianate about Mobile Application Development</h3>
+<h3 align="center">"I am a dedicated coder with strong passion for mobile app development. I live on bringing innovative ideas to real functional, intuitive mobile experiences, and I'm always looking for the latest technologies to enable me to further innovate app design and functionality."</h3>
 
 
 
