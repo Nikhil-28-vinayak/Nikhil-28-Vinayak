@@ -8,9 +8,9 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m focused on **building innovative mobile apps** with intuitive UI/UX  
-- 🌱 Currently learning **Fundamental & Advanced concepts of Kotlin**  
-- 🎯 Goal: To craft **functional, user-friendly mobile experiences** that bring ideas to life  
+- 🔭 I'm focused on **building innovative mobile apps** with intuitive UI/UX 
+- 🌱 Currently learning **Fundamental & Advanced concepts of Kotlin** 
+- 🎯 Create functional and user-friendly mobile experiences that bring ideas to life. 
 - ⚡ Fun fact: I believe in **sharing progress, not just results**  
 
 ---
