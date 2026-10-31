@@ -82,9 +82,6 @@
   <a href="https://instagram.com/nikhilvinayak123" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
-  <a href="https://www.hackerrank.com/nikhil_vinayak" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" width="45" />
-  </a>
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" />
   </a>
