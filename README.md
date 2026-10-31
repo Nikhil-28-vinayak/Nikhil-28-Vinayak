@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Android+App+Developer;Kotlin+%7C+Java+Developer;Flutter+%7C+Dart+Developer;Building+Apps+That+Make+Life+Easier" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhil-28-vinayak&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
